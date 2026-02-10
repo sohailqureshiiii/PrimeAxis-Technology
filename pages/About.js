@@ -24,7 +24,7 @@ const About = () => {
               <h1 className="hone-large-title-fr-hdr-in-main-layout">
                 Seamless B2B Solutions
               </h1>
-              <p className="para-at-main-layout-atnew-sec">
+              <p className="para-at-main-layout-atnew-sec erdtsdd">
                 Choose our B2B services for expert lead generation, tailored
                 solutions, and exceptional results. We drive growth, increase
                 ROI, and deliver outstanding value. Partner with us for a

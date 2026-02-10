@@ -1096,7 +1096,7 @@ a {
 
 .with-backgrnd-blck {
   background: #303548;
-  margin-top: 8em;
+  /* margin-top: 8em; */
 }
 
 .display-flx-with-about-dems-andblx {
@@ -1866,6 +1866,9 @@ button:hover .star-6 {
   100% {
     transform: translateX(calc(-250px * 9));
   }
+}
+.erdtsdd {
+  padding-bottom: 3em;
 }
 
 /* -------    Style starts for Responsive -----------  */
