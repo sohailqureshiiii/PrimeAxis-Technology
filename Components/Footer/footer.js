@@ -157,7 +157,8 @@ const Footer = () => {
                   </div>
                   <div>
                     <p className="adress-para-at-footer-sd">
-                      Srno 74 flat 502 raut complex lane no13b 411028
+                      Sr. no. 74, Office no : 502, Saut complex, Lane no 13b
+                      Pincode : 411028
                     </p>
                   </div>
                 </div>
