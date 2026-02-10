@@ -2065,7 +2065,7 @@ button:hover .star-6 {
     padding: 15px;
     margin-top: 0px;
     letter-spacing: -0.9px;
-    color: #b5b5b5;
+    color: #fff;
     text-align: left;
     line-height: 31px;
   }
@@ -2422,6 +2422,9 @@ button:hover .star-6 {
   }
   .tp-in-ftr-mobile-view-only {
     margin-top: 1em;
+  }
+  .back-grond-for-footer-at-bottom-end {
+    padding-top: 8em;
   }
 }
 

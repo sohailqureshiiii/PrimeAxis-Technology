@@ -114,42 +114,7 @@ export default function Home() {
           </div>
           <Modal visible={show} onClose={() => setShow(false)}></Modal>
           <Slider />
-          {/* <div className="displayflexat-ns">
-            <div className="header-layout-at-main-section paddinglow-atsdj margin-btm-at-mobview">
-              <p
-                // className="trusted-para-at-hm-main-layout"
-                className="trust-partner-list-at-home-layout"
-              >
-                TRUSTED BY 30,000+ BUSINESSES.
-              </p>
-              <div className="flx-in-client-img-cntr">
-                <Image
-                  src={Clientone}
-                  width={100}
-                  height={50}
-                  alt="Picture of the author"
-                />
-                <Image
-                  src={Clientwo}
-                  width={70}
-                  height={30}
-                  alt="Picture of the author"
-                />
-                <Image
-                  src={Clienthree}
-                  width={100}
-                  height={50}
-                  alt="Picture of the author"
-                />
-                <Image
-                  src={Clientfour}
-                  width={100}
-                  height={50}
-                  alt="Picture of the author"
-                />
-              </div>
-            </div>
-          </div> */}
+          ``{" "}
         </div>
         <>
           <AboutSection />
@@ -653,49 +618,3 @@ export default function Home() {
     </>
   );
 }
-
-{
-  /* <div className="card1">
-<img src="http://www.pngmart.com/files/5/Pyramids-PNG-HD.png" alt="" />
-<h3>Pyramids</h3>
-<p>
-  The Egyptian pyramids are ancient pyramid-shaped masonry structures
-  located in Egypt. As of November 2008, sources cite either 118 or 138
-  as the number of identified Egyptian pyramids.
-</p>
-</div>
-
-<div className="card2">
-<img
-  src="https://wallazee.global.ssl.fastly.net/images/dynamic/items/383-1024.png"
-  alt="Eiffel Tower"
-/>
-<h3>Statue of Liberty</h3>
-<p>
-  The Statue of Liberty is a colossal neoclassNameical sculpture on
-  Liberty Island in New York Harbor in New York City, in the United
-  States.
-</p>
-</div>
-
-<div className="card3">
-<img
-  src="http://pluspng.com/img-png/download-taj-mahal-png-images-transparent-gallery-advertisement-1185.png"
-  alt=""
-/>
-<h3>Taj Mahal</h3>
-<p>
-  The Taj Mahal is an ivory-white marble mausoleum on the south bank of
-  the Yamuna river in the Indian city of Agra. It was commissioned in
-  1632 by the Mughal emperor.
-</p>
-</div> */
-}
-
-// In the fast-paced world of B2B,
-// our dedicated support team is here to ensure your business
-// never misses a beat. With a deep understanding of your unique
-//  needs, we offer timely and personalized assistance, resolving
-//  challenges swiftly. From technical queries to account management,
-//   we've got you covered. Partner with us and experience seamless support,
-// empowering your B2B endeavors with confidence and success.
