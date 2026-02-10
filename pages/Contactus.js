@@ -31,23 +31,23 @@ const Contactus = () => {
               <ContactUsForm />
             </div>
           </div>
-          <div className="displayflexat-ns">
+          <div className="displayflexat-ns esfwffwjnmew">
             <div className="center-layout-at-cont-wid">
               <h3 className="header-three-at-contactus-layout">
                 ​Additional Resources
               </h3>
-              <p className="para-for-address-in-contact-layout">
+              {/* <p className="para-for-address-in-contact-layout">
                 USA Address - PrimeAxis Technology Pvt. Ltd. 444 Alaska Avenue
                 Suite
                 <br />
                 #BPN742 Torrance, CA 90503 USA
-              </p>
+              </p> */}
               <p className="para-for-address-in-contact-layout">
                 India Address - Kalyani Nagar West Avenue, Marigold complex
                 <br />
                 Maharashtra 411014, IN
               </p>
-              <p className="para-for-address-in-contact-layout">
+              {/* <p className="para-for-address-in-contact-layout">
                 Dubai Address - 87556 - Hamsah A Building, (Ansar Gallery
                 Building - Al
                 <br />
@@ -61,13 +61,19 @@ const Contactus = () => {
               </p>
               <p className="para-for-address-in-contact-layout">
                 Singapore Address - 30 cecil st, Sigapore 049712
+              </p> */}
+              <p className="para-for-address-in-contact-layout">
+                sales@primeaxistechnology.com
               </p>
               <p className="para-for-address-in-contact-layout">
-                info@PrimeAxis Technology.com
-              </p>
+                info@primeaxistechnology.com
+              </p>{" "}
+              {/* <p className="para-for-address-in-contact-layout">
+                info@primeaxistechnology.com
+              </p> */}
             </div>
           </div>
-          <div>
+          <div className="esfwffwjnmew">
             <Footer />
           </div>
         </div>

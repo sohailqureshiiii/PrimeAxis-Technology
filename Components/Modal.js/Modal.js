@@ -1,6 +1,6 @@
 import React from "react";
 import ContactUsForm from "../ContactusForm/ContactUsForm";
-import ContactImg from "../../public/logo-demand.jpeg";
+import ContactImg from "../../public/DemandscoopMain-logo.png";
 import Image from "next/image";
 import localFont from "next/font/local";
 const myFont = localFont({ src: "../../Fonts/Montserrat-Medium.ttf" });
@@ -21,7 +21,7 @@ const Modal = (props) => {
                     Talk to our Sales team
                   </h2>
                   <div className="mar-left-neg-at-sdv">
-                    <Image width={100} height={100} src={ContactImg} />
+                    <Image width={100} height={80} src={ContactImg} />
                   </div>
                 </div>
                 <div className="right-container-of-inputsand-akdbs">

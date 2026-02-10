@@ -443,7 +443,7 @@ export default function Home() {
             </p>
           </div>
 
-          <div className="Counts-section-container-at-home-layout">
+          {/* <div className="Counts-section-container-at-home-layout">
             <div className="container-for-sinlge-count-ahome-layout">
               <h2 className="counts-of-new-hdr-sfs">
                 <CountUp isCounting end={1387536} duration={3.2} />
@@ -469,7 +469,7 @@ export default function Home() {
               </h2>
               <p className="para-at-count-at-about">Client Satisfaction</p>
             </div>
-          </div>
+          </div> */}
         </div>
         <div className="displayflexat-ns">
           <div className="plain-white-box-for-bckrnd">

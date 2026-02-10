@@ -17,7 +17,7 @@ const HomeNavabr = () => {
         <div className="layout-box-fr-navigation-sub-bx">
           <Link href="/">
             <div className="layout-box-fr-logo-in-jdwla">
-              <Image src={MainLogo} width={"100%"} height={50} />
+              <Image src={MainLogo} width={"100%"} height={70} />
             </div>{" "}
           </Link>
           <ul className="ul-list-for-navtion-at-home-screen-ajk">
@@ -135,7 +135,7 @@ const HomeNavabr = () => {
                 </div>
               </DropdownMenu>
             </li>
-            <li
+            {/* <li
               className={
                 router.pathname == "/WhitePapers"
                   ? "nav-tabs-links-at-Homescreen"
@@ -152,7 +152,7 @@ const HomeNavabr = () => {
               }
             >
               <Link href="/Contactus">Contact US</Link>
-            </li>
+            </li> */}
           </ul>
           <Link href="/Contactus">
             <button className="btn-at-homepage-navbar-jsd" style={myFont.style}>

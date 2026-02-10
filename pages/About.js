@@ -30,21 +30,15 @@ const About = () => {
                 ROI, and deliver outstanding value. Partner with us for a
                 thriving business.
               </p>
-              <p className="third-para-header-at-ijnck">ACHIEVEMENTS</p>
+              {/* <p className="third-para-header-at-ijnck">ACHIEVEMENTS</p> */}
             </div>
           </div>
         </div>
       </div>{" "}
-      <div
+      {/* <div
         className="Counts-section-container-at-home-layout"
         style={{ marginTop: "0" }}
       >
-        <div className="container-for-sinlge-count-ahome-layout">
-          <h2 className="counts-of-new-hdr-sfs">
-            <CountUp isCounting end={1387536} duration={3.2} />
-          </h2>
-          <p className="para-at-count-at-about">Leads Generated</p>
-        </div>
         <div className="container-for-sinlge-count-ahome-layout">
           <h2 className="counts-of-new-hdr-sfs" data-val="7,526">
             <CountUp isCounting end={7526} duration={3.2} />
@@ -64,7 +58,7 @@ const About = () => {
           </h2>
           <p className="para-at-count-at-about">Client Satisfaction</p>
         </div>
-      </div>
+      </div> */}
       <div className="top-minus-padd-in-mobile-view">
         <AboutSection />
       </div>

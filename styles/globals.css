@@ -268,7 +268,7 @@ a {
 
 .background-litj-bl-in-front-service-section {
   height: calc(100vh - 100%);
-  background: #0c0a00;
+  background: #303548;
 }
 
 .paddin-fr-service-sec-boxes {
@@ -373,7 +373,7 @@ a {
 }
 
 .black-section-for-foorter-at-bottom {
-  background: #0c0a00;
+  background: #303548;
   display: flex;
   justify-content: center;
   margin-top: -19em;
@@ -432,7 +432,7 @@ a {
 
 /* Css For Footer */
 
-.footer-background {
+/* .footer-background {
   background: #0c0a00;
   color: #fff;
   height: 100%;
@@ -472,15 +472,9 @@ a {
   display: flex;
   justify-content: center;
   margin-top: 3em;
-}
+} */
 
-.service-header-at-footer-section {
-  padding-bottom: 25px;
-  color: rgb(255 255 255 / 74%);
-  font-size: 24px;
-}
-
-.secound-her-hthree-hdr-at-footer {
+/* .secound-her-hthree-hdr-at-footer {
   padding-bottom: 15px;
 }
 
@@ -548,6 +542,111 @@ a {
   align-items: center;
   padding: 2em 0em;
   justify-content: center;
+} */
+.header-layout-at-main-section {
+  padding-top: 30px;
+  width: 80em;
+}
+.back-grond-for-footer-at-bottom-end {
+  background: #303548;
+}
+.displayflexat-ns {
+  display: flex;
+  justify-content: center;
+}
+.padding-toop-for-footer {
+  margin-top: 14em;
+}
+.white-box-with-background-on-footer-left {
+  border: 1px solid -btn-at-bo#000;
+  background: #fff;
+  padding: 40px 70px 40px 40px;
+  margin-top: -10em;
+  border-radius: 10px;
+}
+.header-at-footer-for-company-logo {
+  margin-top: 0.5em;
+  font-size: 32px;
+}
+.secound-para-header-at-footer-line {
+  font-size: 22px;
+  margin-top: 10px;
+  color: #3d3d3d;
+  padding-bottom: 5px;
+}
+
+.padding-for-the-adress-and-other-opt-at-footer {
+  padding: 3em 3em 0em 3em;
+}
+.flx-in-use-full-loink-and-servoces {
+  display: flex;
+  gap: 3em;
+}
+.usefull-links-in-fotters-sectios-cjhs {
+  font-size: 23px;
+  font-weight: 600;
+  padding-bottom: 15px;
+  color: #cba753;
+}
+.botom-line-of-luse-fil-links-snidr {
+  border-radius: 15px;
+  width: 117px;
+  height: 5px;
+  background: #fff;
+  margin-bottom: 2em;
+}
+.links-name-at-footer-secctions-djs {
+  padding-bottom: 15px;
+  font-size: 18px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.links-name-at-footer-secctions-djs:hover {
+  padding-bottom: 15px;
+  font-size: 18px;
+  color: #cba753;
+  font-weight: 600;
+}
+.wid-sjdkf-wfw-wjepfw-rwsd {
+  width: 80em;
+}
+.big-width-border-at-vskjskmf-dkf {
+  width: 100%;
+  height: 3.5px;
+  background-color: #fffc;
+  margin-bottom: 2em;
+  border-radius: 15px;
+}
+.dis-dss-sddjk-webksd-zcnd {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 2em;
+}
+.flx-for-img-and-office-country {
+  display: flex;
+  gap: 15px;
+}
+.service-header-at-footer-section {
+  padding-bottom: 15px;
+  color: #cba753;
+  font-size: 22px;
+}
+.adress-para-at-footer-sd {
+  color: #fff;
+  font-size: 16px;
+  margin-top: 0px;
+  line-height: 25px;
+}
+.flx-for-img-and-office-country {
+  display: flex;
+  gap: 15px;
+}
+
+.udsjdoicsklslkm {
+  text-align: center;
+  padding-bottom: 2em;
+  color: #fff;
 }
 /* ----------------------------- Contact Us Screen ------------------------- */
 
@@ -606,7 +705,7 @@ a {
   font-size: 18px;
   width: 100%;
   border-radius: 5px;
-  background: #0c0a00;
+  background: #cba753;
   padding: 10px 0px;
   letter-spacing: 0.3px;
   cursor: pointer;
@@ -847,7 +946,7 @@ a {
   border-radius: 10px;
   height: 4.5em;
   margin-bottom: 1em;
-  background: #0c0a00;
+  background: #cba753;
   padding: 10px;
 }
 
@@ -962,13 +1061,13 @@ a {
 }
 
 .get-a-call-back-cta-at-home-page-layout {
-  border: 1px solid rgb(0, 0, 0);
+  border: 1px solid #cba753;
   color: #fff;
   padding: 15px 45px;
   font-size: 20px;
   border-radius: 5px;
   cursor: pointer;
-  background: #000;
+  background: #cba753;
   margin: 35px;
 }
 
@@ -996,7 +1095,7 @@ a {
 }
 
 .with-backgrnd-blck {
-  background: #0c0a00;
+  background: #303548;
   margin-top: 8em;
 }
 
@@ -1535,7 +1634,7 @@ button:hover .star-6 {
 
 .box-container-left-for-content {
   width: 15em;
-  background: #000;
+  background: #fff;
   border-top-left-radius: 15px;
   border-bottom-left-radius: 15px;
   padding: 40px;
@@ -1545,7 +1644,11 @@ button:hover .star-6 {
   line-height: 80px;
   letter-spacing: -2px;
   font-size: 70px;
-  color: #fff;
+  color: #000;
+}
+
+.esfwffwjnmew {
+  padding-top: 4em;
 }
 
 .para-at-modal-in-sectionsms {
@@ -2268,7 +2371,9 @@ button:hover .star-6 {
   .services-and-other-kinks-at-footer {
     width: 100%;
   }
-
+  .padding-toop-for-footer {
+    margin-top: 10em;
+  }
   .dis-flx-in-last-end-compo-sectio-sk {
     display: flex;
     gap: 4em;
@@ -2278,6 +2383,45 @@ button:hover .star-6 {
   }
   .end-text-for-website-deamnd {
     width: 100%;
+  }
+  .displayflexat-ns {
+    display: block;
+  }
+  .header-layout-at-main-section {
+    width: 100%;
+    padding: 50px 15px 0px 15px;
+  }
+  .flxin-for-sdfg {
+    display: block;
+  }
+  .padding-for-the-adress-and-other-opt-at-footer {
+    padding: 25px 0px 0px 0px;
+  }
+  .flx-in-use-full-loink-and-servoces {
+    display: block;
+  }
+  .links-name-at-footer-secctions-djs {
+    padding-bottom: 15px;
+    font-size: 18px;
+    color: #0000009c;
+    cursor: pointer;
+  }
+
+  .links-name-at-footer-secctions-djs:hover {
+    padding-bottom: 15px;
+    font-size: 18px;
+    color: #000;
+    font-weight: 600;
+  }
+  .wid-sjdkf-wfw-wjepfw-rwsd {
+    width: 100%;
+    padding: 0px 15px;
+  }
+  .dis-dss-sddjk-webksd-zcnd {
+    display: block;
+  }
+  .tp-in-ftr-mobile-view-only {
+    margin-top: 1em;
   }
 }
 
